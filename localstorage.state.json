@@ -1,0 +1,14 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "http://scripting.com",
+      "localStorage": [
+        {
+          "name": "savedtext",
+          "value": "Hello world"
+        }
+      ]
+    }
+  ]
+}
